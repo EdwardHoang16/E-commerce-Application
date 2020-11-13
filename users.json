@@ -46,5 +46,15 @@
     "email": "hi@test.com",
     "password": "3c924260d9d6022e99d98a8b60432865fddc81a5323ae255fa901448141be76b0709e18c1d4872a1b9535650083d34effaec9f248ed571ac2ea37f04a06ed3e1.25b575359a3fa707",
     "id": "fd8f0eab"
+  },
+  {
+    "email": "tony@tony.com",
+    "password": "911ebf4a54c3c1fde047e68c55e96e022ee5f3687e6ff89a1c901fd9dc325e9142d640256cf2b25394fc4fbda91bcf43eea02d726059fe9f0b0a013cb6bb61a1.ed0c6453b32ce45f",
+    "id": "7f5bfb37"
+  },
+  {
+    "email": "tony2@tony.com",
+    "password": "f6174e831f293b160f3030f2a9918990f80b8d68638311349087011acbc49addf01eae6dbc43b1a3e315a56f61d81837200f707c72cec486b15dd0bd2ce6e5d9.556a69da955b9289",
+    "id": "2820bb23"
   }
 ]
