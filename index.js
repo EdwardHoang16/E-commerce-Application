@@ -1,4 +1,5 @@
 const express = require("express");
+const favicon = require("serve-favicon");
 const bodyParser = require("body-parser");
 const cookieSession = require("cookie-session");
 const authRouter = require("./routes/admin/auth");
@@ -8,6 +9,7 @@ const cartsRouter = require("./routes/carts");
 
 const app = express();
 
+app.use(favicon(path.join("./", "public", "favicon.ico")));
 app.use(express.static("public"));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(
